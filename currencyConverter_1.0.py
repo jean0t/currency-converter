@@ -8,7 +8,7 @@ layout = [
     [Text("", key="output", size=(40), border_width=(20), justification="c")]
 ]
 
-window = Window("Currency Conversor", layout= layout, size= (400, 150), element_justification="c", margins=(20,20))
+window = Window("Currency Converter", layout= layout, size= (400, 150), element_justification="c", margins=(20,20))
 
 while True:
     event, values = window.read()
