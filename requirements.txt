@@ -1,0 +1,6 @@
+===============================
+modules needed:
+Requests
+PySimpleGUI
+BeautifulSoup
+===============================
