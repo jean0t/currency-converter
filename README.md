@@ -8,7 +8,7 @@
  Displays the currenty cotation between two currencies.
  
 # Requirements to use
-- the OS used was linux, no guarantee that it will work in another OS
+- Supported OS: Windows, linux
 - python 3.10
 - the modules used (which is recorded in the "requirements.txt" archive)
 
